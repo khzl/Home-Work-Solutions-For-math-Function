@@ -1,2 +1,2 @@
 # Home-Work-Solutions-For-math-Function
-solving problem for math Function 
+solving problem for math Function in C++
